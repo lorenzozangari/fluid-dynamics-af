@@ -88,13 +88,17 @@ All required Python packages as specified in [requirements.txt](requirements.txt
 
 
 ## References
-
+If you use our code, please cite us:
 ```
-@inproceedings{zangari2025authorial,
-  author    = {Zangari, Lorenzo and Picca, Davide and Fedriga, Riccardo},
-  title     = {Authorial Filtering and Computational Models: A Dynamic Analysis of Umberto Eco's Foucault's Pendulum through a Fluid-Dynamics-Inspired Framework},
-  booktitle = {Proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)},
-  year      = {2025}
+@article{afzangari,
+  title = {Authorial Filtering and Computational Models: A Dynamic Analysis of Umberto Eco's \\textit\{Foucault's Pendulum\} through a Fluid-Dynamics-Inspired Framework},
+  author = {Lorenzo Zangari and Davide Picca and Riccardo Fedriga},
+  year = {2025},
+  journal = {Anthology of Computers and the Humanities},
+  volume = {3},
+  pages = {1123--1136},
+  editor = {Taylor Arnold, Margherita Fantoli, and Ruben Ros},
+  doi = {10.63744/yVYI1Je9wQvM}
 }
 
 ```
