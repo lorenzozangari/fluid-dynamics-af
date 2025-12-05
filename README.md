@@ -4,7 +4,7 @@ Source code of the framework presented in *Authorial Filtering and Computational
 
 > Authorial-filtering plays a crucial role in constructing literary meaning. It is the narrative act of selectively activating, suppressing, or leaving certain information latent within a story. Umberto Eco's Foucault's Pendulum stands as a paradigmatic case of this phenomenon, as it exemplifies  a narrative  wherein presence and absence, action and potentiality, remain in constant flux through intra- and intertextual interplay. In this preliminary study, we propose a novel computational framework inspired by fluid dynamics to detect authorial-filtering information within literary texts. Applying this approach to Foucault's Pendulum, our results reveal how narrative motifs and topics flow, diffuse, and react throughout the text, closely mirroring the qualitative interpretations of domain experts. Our proposed framework not only sheds new light on Eco’s complex narrative mechanisms but also advances computational narratology by providing an interpretable model for digital literary analysis.
 
-The  source code is available in the [Main.ipynb](Main.ipynb) file.
+The  source code is available in the [Main.ipynb](Main.ipynb) file. The paper is available [here](https://anthology.ach.org/volumes/vol0003/authorial-filtering-computational-models-dynamic-s/).
 
 
 ## Input Data
